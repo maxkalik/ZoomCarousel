@@ -1,6 +1,6 @@
 # ZoomCarouselView
 
-A customizable horizontal carousel view with scaling and snapping behavior, built using `UICollectionView` and SwiftUI integration via `UIViewRepresentable`.
+A customizable horizontal carousel view with scaling and snapping behavior.
 
 ![Demo](example.gif)
 
